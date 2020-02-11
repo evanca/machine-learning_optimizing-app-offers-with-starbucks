@@ -14,6 +14,7 @@ CONTENTS OF THIS FILE
  * [Introduction](#introduction)
  * [Requirements](#requirements)
  * [Installation](#installation)
+ * [Roadmap](#roadmap)
  * [License](#license)
  
  
@@ -44,6 +45,9 @@ To install SageMaker Python SDK [see this repo](https://github.com/aws/sagemaker
 
 No other module installation is needed as long as you already have Anaconda on your machine. You can get it [here](https://docs.anaconda.com/anaconda/install/).
 
+### Roadmap
+
+See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
 
 ### License
 
